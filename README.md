@@ -3,8 +3,10 @@
 To run this on your local device,make sure you have already installed nodejs and mongodb.
 
 1.Clone this repo in your local directory
-1.Go to that directory and run npm install mongoose,express,shortid,nodemon on cmd.
-2.run nodemon server.js
+
+2.Go to that directory and run npm install mongoose,express,shortid,nodemon on cmd.
+
+3.run nodemon server.js
 
 Front Page -->
 
